@@ -44,3 +44,29 @@ header {
 }
 /* Header CSS ends here */
 
+.container-3 {
+    padding: 10px;
+}
+
+.chat-list-container {
+    display: flex;
+    align-items: center;
+    margin-top: 15px
+}
+
+.avatar-div {
+    width: 66px;
+}
+
+.avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.border {
+    border-bottom: 1px ridge;
+    width: 83%;
+    text-align: right;
+    margin-left: auto;
+    margin-top: 10px;
+}
